@@ -2,7 +2,7 @@
 
 
 ```python
-# I'm using anacondas prompt copy and paste this there...... pip install robin_stocks 
+# I'm using anacondas prompt copy, paste this there...... pip install robin_stocks 
 ```
 
 
