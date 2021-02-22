@@ -1,5 +1,6 @@
 [Reference for commands](https://robin-stocks.readthedocs.io/en/latest/quickstart.html)
 
+This is for me to quickly reference to for when I want to tackle doing this.
 
 ```python
 # I'm using anacondas prompt copy, paste this there...... pip install robin_stocks 
